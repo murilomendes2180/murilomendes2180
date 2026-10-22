@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="mailto:[murilomendes125@gmail.com]">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -18,10 +15,10 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em **[Nome do Projeto ou Empresa]**
-- 🌱 No momento aprendendo **[Tecnologia, ex: Next.js, Docker, AWS]**
-- 👯 Buscando colaborar em **[Tipo de projeto, ex: projetos Open Source]**
-- 💬 Me pergunte sobre **[Seus pontos fortes, ex: React, APIs REST, Python]**
+- 🔭 Atualmente sou estudante em **[Toledo prudente ]**
+- 🌱 No momento aprendendo **[C#,Docker,codex]**
+- 👯 Buscando colaborar em **[projetos Open Source]**
+- 💬 Me pergunte sobre **[SQL,HTML,CSS,C]**
 - ⚡ Curiosidade: **[Um hobbie ou fato divertido sobre você]**
 
 ---
@@ -34,6 +31,10 @@
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
 <img width="12" />
 </div>
 
