@@ -1,13 +1,10 @@
-<h1 align="center">Olá! 👋 Sou o [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Eu sou o [murilo]</h1>
 <h3 align="center">Desenvolvedor [Sua Especialidade, ex: Front-end / Back-end] de [Sua Cidade/Estado] 🇧🇷</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   <a href="mailto:[murilomendes125@gmail.com]">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="[LINK_DO_SEU_PORTFOLIO]" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio">
   </a>
 </p>
 
@@ -43,6 +40,6 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[murilomendes2180]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[murilomendes2180]&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilomendes2180&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomendes2180&layout=compact&langs_count=6&theme=radical"/>
 </div>
