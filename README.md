@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor [Sua Especialidade, ex: Front-end / Back-end] de [Sua Cidade/Estado] 🇧🇷</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[murilomendes2180]" target="_blank">
+  <a href="https://linkedin.com/in/[murilo mendes]" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:[SEU_EMAIL]">
